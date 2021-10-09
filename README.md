@@ -5,8 +5,10 @@
 *	Developed the second 3.3V output rail for digital circuits at 1.5A Max and minimized output ripple to less than 5mVpp.
 
 ### Multisim Schematic ###
-![image](https://user-images.githubusercontent.com/68084112/136662405-63acf1f0-6442-4af3-bd5b-5e3fc464d0c0.png)
+![Picture1](https://user-images.githubusercontent.com/68084112/136662505-cde64ba2-f057-4c45-90d5-fb87fc7ef744.png)
+
 
 ### Transient Analysis ###
-![image](https://user-images.githubusercontent.com/68084112/136662447-25b149e4-934d-40be-be94-58e1b5db010f.png)
+![Picture2](https://user-images.githubusercontent.com/68084112/136662507-234448a0-6805-4a8d-8a1e-92f4ea2a58aa.png)
+
 
